@@ -1,6 +1,6 @@
 {
-    "name": "tech_media",
-    "short_name": "tech_media",
+    "name": "Social App",
+    "short_name": "Social App",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157291923803",
+    "project_id": "social-media-app-fc44d",
+    "storage_bucket": "social-media-app-fc44d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157291923803:android:6dacd3120434414615727e",
+        "android_client_info": {
+          "package_name": "com.khang.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157291923803-pi1hdm9d2ge97likeccardkrfvl9j5oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmwfGKeLYhgz-Ac8iWAnyiIbQiOj7Cn9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157291923803-pi1hdm9d2ge97likeccardkrfvl9j5oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
